@@ -1,0 +1,20 @@
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\bin\Debug\Final.exe.config
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\bin\Debug\Final.exe
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\bin\Debug\Final.pdb
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\bin\Debug\Final.xml
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.AboutBox1.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.VendingForm.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.Resources.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.vbproj.GenerateResource.Cache
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.exe
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.xml
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.pdb
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.SplashScreen1.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.AddMoneyForm.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.ManagerForm.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.LogInForm.resources
+C:\Users\pauga\Documents\Computer Science\Visual Basic\Final\Final\obj\Debug\Final.AddInventoryForm.resources
+C:\Users\pauga\Desktop\Final\bin\Debug\Final.exe.config
+C:\Users\pauga\Desktop\Final\obj\Debug\Final.exe
+C:\Users\pauga\Desktop\Final\obj\Debug\Final.xml
+C:\Users\pauga\Desktop\Final\obj\Debug\Final.pdb
